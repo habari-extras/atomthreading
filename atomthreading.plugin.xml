@@ -7,8 +7,10 @@
 	<authorurl>http://blog.bcse.info/</authorurl>
 	<license url="http://bcse.googlecode.com/svn/LICENSE">Apache License 2.0</license>
 	<guid>a413fa7e-76cf-4edf-b7c5-53b8aa648eef</guid>
-	<description><![CDATA[Implement Atom threading extensions (RFC4685) on Habari. In other words, this plugin allows you to add Comments Count FeedFlare™ to your feed]]>.</description>
-
+	<description><![CDATA[Implement Atom threading extensions (RFC4685) on Habari.]]>.</description>
+	<help>
+		<value><![CDATA[In other words, this plugin allows you to add Comments Count FeedFlare™ to your feed.]]></value>
+	</help>
 </pluggable>
 
  
